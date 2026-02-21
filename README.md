@@ -1,16 +1,33 @@
-# searchpage
 
-A new Flutter project.
+# Amazon Search Page (Flutter)
+
+This project is a Flutter implementation of an Amazon-style search page UI.
+
+## About
+
+This app is part of a Flutter learning and group project.  
+The focus is on building UI components like:
+
+- Search bar
+- Product list
+- Layout structuring
+- Proper spacing and responsiveness
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this project:
 
-A few resources to get you started if this is your first Flutter project:
+1. Make sure Flutter is installed.
+2. Run:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   flutter pub get  
+   flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Used
+
+- Flutter
+- Dart
+
+---
+
+Built as part of learning Flutter UI development.
